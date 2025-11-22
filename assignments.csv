@@ -1,0 +1,111 @@
+StudentID,StudentName,Email,Department,JoinDate,GPA,AssignmentID,AssignmentTitle,Subject,DueDate,SubmissionDate,Score,Status,Professor,CourseID,CourseName,Difficulty
+S001,Aisha Khan,aisha.khan@uni.edu,Computer Science,2022-09-01,3.8,A001,Data Structure Basics,Computer Science,2023-10-15,2023-10-14,92,Submitted,Dr. Robert Smith,CS101,Introduction to Programming,Easy
+S001,Aisha Khan,aisha.khan@uni.edu,Computer Science,2022-09-01,3.8,A002,OOP Principles,Computer Science,2023-11-20,2023-11-19,88,Submitted,Dr. Robert Smith,CS102,Object-Oriented Programming,Medium
+S001,Aisha Khan,aisha.khan@uni.edu,Computer Science,2022-09-01,3.8,A003,Database Design,Computer Science,2024-01-10,2024-01-09,95,Submitted,Prof. Sarah Johnson,CS201,Database Systems,Hard
+S002,James Wilson,james.wilson@uni.edu,Computer Science,2022-09-01,3.5,A001,Data Structure Basics,Computer Science,2023-10-15,2023-10-16,78,Late,Dr. Robert Smith,CS101,Introduction to Programming,Easy
+S002,James Wilson,james.wilson@uni.edu,Computer Science,2022-09-01,3.5,A004,Algorithm Analysis,Computer Science,2023-12-05,2023-12-04,85,Submitted,Prof. Michael Brown,CS150,Algorithms,Medium
+S002,James Wilson,james.wilson@uni.edu,Computer Science,2022-09-01,3.5,A005,Web Development Project,Computer Science,2024-02-28,2024-02-27,80,Submitted,Dr. Emma Wilson,CS250,Web Development,Hard
+S003,Maria Garcia,maria.garcia@uni.edu,Information Technology,2022-09-01,3.7,A006,Network Configuration,Information Technology,2023-11-10,2023-11-09,90,Submitted,Prof. David Lee,IT101,Networking Basics,Medium
+S003,Maria Garcia,maria.garcia@uni.edu,Information Technology,2022-09-01,3.7,A007,Cybersecurity Report,Information Technology,2024-01-15,2024-01-15,87,Submitted,Prof. Lisa Anderson,IT200,Cybersecurity Fundamentals,Hard
+S003,Maria Garcia,maria.garcia@uni.edu,Information Technology,2022-09-01,3.7,A002,OOP Principles,Computer Science,2023-11-20,2023-11-25,79,Late,Dr. Robert Smith,CS102,Object-Oriented Programming,Medium
+S004,David Zhang,david.zhang@uni.edu,Computer Science,2023-01-15,3.4,A008,Mobile App Development,Computer Science,2024-02-10,2024-02-09,82,Submitted,Prof. Emma Davis,CS300,Mobile Development,Hard
+S004,David Zhang,david.zhang@uni.edu,Computer Science,2023-01-15,3.4,A001,Data Structure Basics,Computer Science,2023-10-15,2023-10-15,75,Submitted,Dr. Robert Smith,CS101,Introduction to Programming,Easy
+S004,David Zhang,david.zhang@uni.edu,Computer Science,2023-01-15,3.4,A004,Algorithm Analysis,Computer Science,2023-12-05,2023-12-06,81,Late,Prof. Michael Brown,CS150,Algorithms,Medium
+S005,Sophie Brown,sophie.brown@uni.edu,Mathematics,2023-02-01,3.9,A009,Calculus Integration Problems,Mathematics,2023-10-30,2023-10-29,98,Submitted,Prof. Henry Taylor,MATH101,Calculus I,Medium
+S005,Sophie Brown,sophie.brown@uni.edu,Mathematics,2023-02-01,3.9,A010,Linear Algebra Proofs,Mathematics,2023-11-25,2023-11-24,96,Submitted,Prof. Angela White,MATH200,Linear Algebra,Hard
+S005,Sophie Brown,sophie.brown@uni.edu,Mathematics,2023-02-01,3.9,A003,Database Design,Computer Science,2024-01-10,2024-01-10,91,Submitted,Prof. Sarah Johnson,CS201,Database Systems,Hard
+S006,Juan Martinez,juan.martinez@uni.edu,Computer Science,2022-09-01,3.2,A011,Statistics Analysis,Mathematics,2024-01-20,2024-01-21,72,Late,Prof. Richard Harris,MATH150,Statistics,Medium
+S006,Juan Martinez,juan.martinez@uni.edu,Computer Science,2022-09-01,3.2,A001,Data Structure Basics,Computer Science,2023-10-15,2023-10-17,70,Late,Dr. Robert Smith,CS101,Introduction to Programming,Easy
+S006,Juan Martinez,juan.martinez@uni.edu,Computer Science,2022-09-01,3.2,A012,Machine Learning Basics,Computer Science,2024-03-05,2024-03-04,76,Submitted,Dr. Lisa Chen,CS400,Machine Learning,Hard
+S007,Olivia Thompson,olivia.thompson@uni.edu,Physics,2023-03-10,3.6,A013,Quantum Mechanics Problem Set,Physics,2024-01-05,2024-01-04,88,Submitted,Prof. James Clark,PHYS200,Quantum Mechanics,Hard
+S007,Olivia Thompson,olivia.thompson@uni.edu,Physics,2023-03-10,3.6,A014,Classical Mechanics Lab,Physics,2023-10-20,2023-10-19,84,Submitted,Prof. George Miller,PHYS101,Classical Mechanics,Medium
+S007,Olivia Thompson,olivia.thompson@uni.edu,Physics,2023-03-10,3.6,A002,OOP Principles,Computer Science,2023-11-20,2023-11-21,77,Late,Dr. Robert Smith,CS102,Object-Oriented Programming,Medium
+S008,Ethan Lee,ethan.lee@uni.edu,Computer Science,2023-04-05,3.3,A015,System Design Document,Computer Science,2024-02-15,2024-02-14,83,Submitted,Prof. Emma Davis,CS301,System Design,Hard
+S008,Ethan Lee,ethan.lee@uni.edu,Computer Science,2023-04-05,3.3,A004,Algorithm Analysis,Computer Science,2023-12-05,2023-12-05,79,Submitted,Prof. Michael Brown,CS150,Algorithms,Medium
+S008,Ethan Lee,ethan.lee@uni.edu,Computer Science,2023-04-05,3.3,A016,Linux Administration,Information Technology,2024-03-10,2024-03-11,74,Late,Prof. David Lee,IT300,System Administration,Hard
+S009,Yuki Tanaka,yuki.tanaka@uni.edu,Information Technology,2022-09-01,3.8,A006,Network Configuration,Information Technology,2023-11-10,2023-11-09,91,Submitted,Prof. David Lee,IT101,Networking Basics,Medium
+S009,Yuki Tanaka,yuki.tanaka@uni.edu,Information Technology,2022-09-01,3.8,A017,Cloud Infrastructure Setup,Information Technology,2024-02-20,2024-02-19,93,Submitted,Prof. Michael Johnson,IT250,Cloud Computing,Hard
+S009,Yuki Tanaka,yuki.tanaka@uni.edu,Information Technology,2022-09-01,3.8,A005,Web Development Project,Computer Science,2024-02-28,2024-02-27,89,Submitted,Dr. Emma Wilson,CS250,Web Development,Hard
+S010,Lucas Patterson,lucas.patterson@uni.edu,Mathematics,2023-05-15,3.4,A009,Calculus Integration Problems,Mathematics,2023-10-30,2023-10-31,81,Late,Prof. Henry Taylor,MATH101,Calculus I,Medium
+S010,Lucas Patterson,lucas.patterson@uni.edu,Mathematics,2023-05-15,3.4,A010,Linear Algebra Proofs,Mathematics,2023-11-25,2023-11-23,83,Submitted,Prof. Angela White,MATH200,Linear Algebra,Hard
+S010,Lucas Patterson,lucas.patterson@uni.edu,Mathematics,2023-05-15,3.4,A011,Statistics Analysis,Mathematics,2024-01-20,2024-01-19,77,Submitted,Prof. Richard Harris,MATH150,Statistics,Medium
+S011,Isabella Rodriguez,isabella.rodriguez@uni.edu,Computer Science,2023-06-01,3.7,A003,Database Design,Computer Science,2024-01-10,2024-01-09,94,Submitted,Prof. Sarah Johnson,CS201,Database Systems,Hard
+S011,Isabella Rodriguez,isabella.rodriguez@uni.edu,Computer Science,2023-06-01,3.7,A008,Mobile App Development,Computer Science,2024-02-10,2024-02-09,90,Submitted,Prof. Emma Davis,CS300,Mobile Development,Hard
+S011,Isabella Rodriguez,isabella.rodriguez@uni.edu,Computer Science,2023-06-01,3.7,A012,Machine Learning Basics,Computer Science,2024-03-05,2024-03-05,92,Submitted,Dr. Lisa Chen,CS400,Machine Learning,Hard
+S012,Marcus Johnson,marcus.johnson@uni.edu,Physics,2023-07-10,3.5,A013,Quantum Mechanics Problem Set,Physics,2024-01-05,2024-01-05,86,Submitted,Prof. James Clark,PHYS200,Quantum Mechanics,Hard
+S012,Marcus Johnson,marcus.johnson@uni.edu,Physics,2023-07-10,3.5,A014,Classical Mechanics Lab,Physics,2023-10-20,2023-10-18,82,Submitted,Prof. George Miller,PHYS101,Classical Mechanics,Medium
+S012,Marcus Johnson,marcus.johnson@uni.edu,Physics,2023-07-10,3.5,A018,Optics Experiments,Physics,2024-02-25,2024-02-24,85,Submitted,Prof. Patricia Kim,PHYS150,Optics,Medium
+S013,Amelia Chen,amelia.chen@uni.edu,Information Technology,2022-09-01,3.9,A007,Cybersecurity Report,Information Technology,2024-01-15,2024-01-14,95,Submitted,Prof. Lisa Anderson,IT200,Cybersecurity Fundamentals,Hard
+S013,Amelia Chen,amelia.chen@uni.edu,Information Technology,2022-09-01,3.9,A017,Cloud Infrastructure Setup,Information Technology,2024-02-20,2024-02-19,96,Submitted,Prof. Michael Johnson,IT250,Cloud Computing,Hard
+S013,Amelia Chen,amelia.chen@uni.edu,Information Technology,2022-09-01,3.9,A019,Database Administration,Information Technology,2024-03-15,2024-03-14,93,Submitted,Prof. Daniel Martinez,IT300,Advanced Database,Hard
+S014,Nathaniel Brown,nathaniel.brown@uni.edu,Computer Science,2023-08-05,3.1,A001,Data Structure Basics,Computer Science,2023-10-15,2023-10-18,68,Late,Dr. Robert Smith,CS101,Introduction to Programming,Easy
+S014,Nathaniel Brown,nathaniel.brown@uni.edu,Computer Science,2023-08-05,3.1,A002,OOP Principles,Computer Science,2023-11-20,2023-11-22,71,Late,Dr. Robert Smith,CS102,Object-Oriented Programming,Medium
+S014,Nathaniel Brown,nathaniel.brown@uni.edu,Computer Science,2023-08-05,3.1,A004,Algorithm Analysis,Computer Science,2023-12-05,2023-12-07,73,Late,Prof. Michael Brown,CS150,Algorithms,Medium
+S015,Sophia Wilson,sophia.wilson@uni.edu,Mathematics,2023-09-01,3.8,A009,Calculus Integration Problems,Mathematics,2023-10-30,2023-10-28,97,Submitted,Prof. Henry Taylor,MATH101,Calculus I,Medium
+S015,Sophia Wilson,sophia.wilson@uni.edu,Mathematics,2023-09-01,3.8,A010,Linear Algebra Proofs,Mathematics,2023-11-25,2023-11-24,94,Submitted,Prof. Angela White,MATH200,Linear Algebra,Hard
+S015,Sophia Wilson,sophia.wilson@uni.edu,Mathematics,2023-09-01,3.8,A020,Discrete Mathematics,Mathematics,2024-02-10,2024-02-09,99,Submitted,Prof. Steven Moore,MATH250,Discrete Math,Hard
+S016,Michael Davidson,michael.davidson@uni.edu,Computer Science,2022-09-01,3.4,A005,Web Development Project,Computer Science,2024-02-28,2024-02-28,81,Submitted,Dr. Emma Wilson,CS250,Web Development,Hard
+S016,Michael Davidson,michael.davidson@uni.edu,Computer Science,2022-09-01,3.4,A015,System Design Document,Computer Science,2024-02-15,2024-02-16,80,Late,Prof. Emma Davis,CS301,System Design,Hard
+S016,Michael Davidson,michael.davidson@uni.edu,Computer Science,2022-09-01,3.4,A012,Machine Learning Basics,Computer Science,2024-03-05,2024-03-06,78,Late,Dr. Lisa Chen,CS400,Machine Learning,Hard
+S017,Nina Patel,nina.patel@uni.edu,Physics,2023-10-10,3.7,A013,Quantum Mechanics Problem Set,Physics,2024-01-05,2024-01-04,89,Submitted,Prof. James Clark,PHYS200,Quantum Mechanics,Hard
+S017,Nina Patel,nina.patel@uni.edu,Physics,2023-10-10,3.7,A014,Classical Mechanics Lab,Physics,2023-10-20,2023-10-19,87,Submitted,Prof. George Miller,PHYS101,Classical Mechanics,Medium
+S017,Nina Patel,nina.patel@uni.edu,Physics,2023-10-10,3.7,A018,Optics Experiments,Physics,2024-02-25,2024-02-24,90,Submitted,Prof. Patricia Kim,PHYS150,Optics,Medium
+S018,Oliver Lewis,oliver.lewis@uni.edu,Information Technology,2023-11-01,3.6,A006,Network Configuration,Information Technology,2023-11-10,2023-11-11,86,Late,Prof. David Lee,IT101,Networking Basics,Medium
+S018,Oliver Lewis,oliver.lewis@uni.edu,Information Technology,2023-11-01,3.6,A007,Cybersecurity Report,Information Technology,2024-01-15,2024-01-15,88,Submitted,Prof. Lisa Anderson,IT200,Cybersecurity Fundamentals,Hard
+S018,Oliver Lewis,oliver.lewis@uni.edu,Information Technology,2023-11-01,3.6,A016,Linux Administration,Information Technology,2024-03-10,2024-03-09,84,Submitted,Prof. David Lee,IT300,System Administration,Hard
+S019,Rachel Green,rachel.green@uni.edu,Computer Science,2023-12-01,3.3,A003,Database Design,Computer Science,2024-01-10,2024-01-11,77,Late,Prof. Sarah Johnson,CS201,Database Systems,Hard
+S019,Rachel Green,rachel.green@uni.edu,Computer Science,2023-12-01,3.3,A008,Mobile App Development,Computer Science,2024-02-10,2024-02-10,79,Submitted,Prof. Emma Davis,CS300,Mobile Development,Hard
+S019,Rachel Green,rachel.green@uni.edu,Computer Science,2023-12-01,3.3,A005,Web Development Project,Computer Science,2024-02-28,2024-03-01,76,Late,Dr. Emma Wilson,CS250,Web Development,Hard
+S020,Tyler Anderson,tyler.anderson@uni.edu,Mathematics,2024-01-05,3.2,A011,Statistics Analysis,Mathematics,2024-01-20,2024-01-20,74,Submitted,Prof. Richard Harris,MATH150,Statistics,Medium
+S020,Tyler Anderson,tyler.anderson@uni.edu,Mathematics,2024-01-05,3.2,A020,Discrete Mathematics,Mathematics,2024-02-10,2024-02-11,73,Late,Prof. Steven Moore,MATH250,Discrete Math,Hard
+S020,Tyler Anderson,tyler.anderson@uni.edu,Mathematics,2024-01-05,3.2,A009,Calculus Integration Problems,Mathematics,2023-10-30,2023-11-02,69,Late,Prof. Henry Taylor,MATH101,Calculus I,Medium
+S021,Victoria Scott,victoria.scott@uni.edu,Computer Science,2022-09-01,3.6,A001,Data Structure Basics,Computer Science,2023-10-15,2023-10-14,89,Submitted,Dr. Robert Smith,CS101,Introduction to Programming,Easy
+S021,Victoria Scott,victoria.scott@uni.edu,Computer Science,2022-09-01,3.6,A003,Database Design,Computer Science,2024-01-10,2024-01-09,92,Submitted,Prof. Sarah Johnson,CS201,Database Systems,Hard
+S021,Victoria Scott,victoria.scott@uni.edu,Computer Science,2022-09-01,3.6,A012,Machine Learning Basics,Computer Science,2024-03-05,2024-03-04,90,Submitted,Dr. Lisa Chen,CS400,Machine Learning,Hard
+S022,William Hall,william.hall@uni.edu,Information Technology,2023-02-01,3.5,A017,Cloud Infrastructure Setup,Information Technology,2024-02-20,2024-02-20,89,Submitted,Prof. Michael Johnson,IT250,Cloud Computing,Hard
+S022,William Hall,william.hall@uni.edu,Information Technology,2023-02-01,3.5,A019,Database Administration,Information Technology,2024-03-15,2024-03-15,86,Submitted,Prof. Daniel Martinez,IT300,Advanced Database,Hard
+S022,William Hall,william.hall@uni.edu,Information Technology,2023-02-01,3.5,A007,Cybersecurity Report,Information Technology,2024-01-15,2024-01-16,84,Late,Prof. Lisa Anderson,IT200,Cybersecurity Fundamentals,Hard
+S023,Xander White,xander.white@uni.edu,Physics,2023-03-01,3.3,A018,Optics Experiments,Physics,2024-02-25,2024-02-26,81,Late,Prof. Patricia Kim,PHYS150,Optics,Medium
+S023,Xander White,xander.white@uni.edu,Physics,2023-03-01,3.3,A014,Classical Mechanics Lab,Physics,2023-10-20,2023-10-21,78,Late,Prof. George Miller,PHYS101,Classical Mechanics,Medium
+S023,Xander White,xander.white@uni.edu,Physics,2023-03-01,3.3,A013,Quantum Mechanics Problem Set,Physics,2024-01-05,2024-01-06,80,Late,Prof. James Clark,PHYS200,Quantum Mechanics,Hard
+S024,Yasmine Rivera,yasmine.rivera@uni.edu,Computer Science,2023-04-10,3.7,A008,Mobile App Development,Computer Science,2024-02-10,2024-02-09,93,Submitted,Prof. Emma Davis,CS300,Mobile Development,Hard
+S024,Yasmine Rivera,yasmine.rivera@uni.edu,Computer Science,2023-04-10,3.7,A015,System Design Document,Computer Science,2024-02-15,2024-02-14,91,Submitted,Prof. Emma Davis,CS301,System Design,Hard
+S024,Yasmine Rivera,yasmine.rivera@uni.edu,Computer Science,2023-04-10,3.7,A005,Web Development Project,Computer Science,2024-02-28,2024-02-27,92,Submitted,Dr. Emma Wilson,CS250,Web Development,Hard
+S025,Zainab Ahmed,zainab.ahmed@uni.edu,Mathematics,2023-05-15,3.9,A010,Linear Algebra Proofs,Mathematics,2023-11-25,2023-11-24,97,Submitted,Prof. Angela White,MATH200,Linear Algebra,Hard
+S025,Zainab Ahmed,zainab.ahmed@uni.edu,Mathematics,2023-05-15,3.9,A020,Discrete Mathematics,Mathematics,2024-02-10,2024-02-09,98,Submitted,Prof. Steven Moore,MATH250,Discrete Math,Hard
+S025,Zainab Ahmed,zainab.ahmed@uni.edu,Mathematics,2023-05-15,3.9,A009,Calculus Integration Problems,Mathematics,2023-10-30,2023-10-29,95,Submitted,Prof. Henry Taylor,MATH101,Calculus I,Medium
+S026,Aaron Bennett,aaron.bennett@uni.edu,Information Technology,2023-06-20,3.4,A006,Network Configuration,Information Technology,2023-11-10,2023-11-10,84,Submitted,Prof. David Lee,IT101,Networking Basics,Medium
+S026,Aaron Bennett,aaron.bennett@uni.edu,Information Technology,2023-06-20,3.4,A016,Linux Administration,Information Technology,2024-03-10,2024-03-10,80,Submitted,Prof. David Lee,IT300,System Administration,Hard
+S026,Aaron Bennett,aaron.bennett@uni.edu,Information Technology,2023-06-20,3.4,A017,Cloud Infrastructure Setup,Information Technology,2024-02-20,2024-02-21,82,Late,Prof. Michael Johnson,IT250,Cloud Computing,Hard
+S027,Bella Foster,bella.foster@uni.edu,Computer Science,2023-07-01,3.2,A002,OOP Principles,Computer Science,2023-11-20,2023-11-23,75,Late,Dr. Robert Smith,CS102,Object-Oriented Programming,Medium
+S027,Bella Foster,bella.foster@uni.edu,Computer Science,2023-07-01,3.2,A004,Algorithm Analysis,Computer Science,2023-12-05,2023-12-08,72,Late,Prof. Michael Brown,CS150,Algorithms,Medium
+S027,Bella Foster,bella.foster@uni.edu,Computer Science,2023-07-01,3.2,A001,Data Structure Basics,Computer Science,2023-10-15,2023-10-19,70,Late,Dr. Robert Smith,CS101,Introduction to Programming,Easy
+S028,Cameron Price,cameron.price@uni.edu,Physics,2023-08-10,3.8,A013,Quantum Mechanics Problem Set,Physics,2024-01-05,2024-01-04,93,Submitted,Prof. James Clark,PHYS200,Quantum Mechanics,Hard
+S028,Cameron Price,cameron.price@uni.edu,Physics,2023-08-10,3.8,A018,Optics Experiments,Physics,2024-02-25,2024-02-24,91,Submitted,Prof. Patricia Kim,PHYS150,Optics,Medium
+S028,Cameron Price,cameron.price@uni.edu,Physics,2023-08-10,3.8,A014,Classical Mechanics Lab,Physics,2023-10-20,2023-10-19,90,Submitted,Prof. George Miller,PHYS101,Classical Mechanics,Medium
+S029,Diana Summers,diana.summers@uni.edu,Computer Science,2023-09-05,3.5,A003,Database Design,Computer Science,2024-01-10,2024-01-09,88,Submitted,Prof. Sarah Johnson,CS201,Database Systems,Hard
+S029,Diana Summers,diana.summers@uni.edu,Computer Science,2023-09-05,3.5,A008,Mobile App Development,Computer Science,2024-02-10,2024-02-10,85,Submitted,Prof. Emma Davis,CS300,Mobile Development,Hard
+S029,Diana Summers,diana.summers@uni.edu,Computer Science,2023-09-05,3.5,A015,System Design Document,Computer Science,2024-02-15,2024-02-15,86,Submitted,Prof. Emma Davis,CS301,System Design,Hard
+S030,Evan Richards,evan.richards@uni.edu,Information Technology,2023-10-01,3.7,A019,Database Administration,Information Technology,2024-03-15,2024-03-14,91,Submitted,Prof. Daniel Martinez,IT300,Advanced Database,Hard
+S030,Evan Richards,evan.richards@uni.edu,Information Technology,2023-10-01,3.7,A017,Cloud Infrastructure Setup,Information Technology,2024-02-20,2024-02-19,92,Submitted,Prof. Michael Johnson,IT250,Cloud Computing,Hard
+S030,Evan Richards,evan.richards@uni.edu,Information Technology,2023-10-01,3.7,A007,Cybersecurity Report,Information Technology,2024-01-15,2024-01-14,90,Submitted,Prof. Lisa Anderson,IT200,Cybersecurity Fundamentals,Hard
+S031,Fiona Kelly,fiona.kelly@uni.edu,Mathematics,2023-11-10,3.3,A011,Statistics Analysis,Mathematics,2024-01-20,2024-01-20,76,Submitted,Prof. Richard Harris,MATH150,Statistics,Medium
+S031,Fiona Kelly,fiona.kelly@uni.edu,Mathematics,2023-11-10,3.3,A009,Calculus Integration Problems,Mathematics,2023-10-30,2023-10-31,75,Late,Prof. Henry Taylor,MATH101,Calculus I,Medium
+S031,Fiona Kelly,fiona.kelly@uni.edu,Mathematics,2023-11-10,3.3,A020,Discrete Mathematics,Mathematics,2024-02-10,2024-02-12,74,Late,Prof. Steven Moore,MATH250,Discrete Math,Hard
+S032,Gregory Wells,gregory.wells@uni.edu,Computer Science,2023-12-05,3.6,A004,Algorithm Analysis,Computer Science,2023-12-05,2023-12-04,87,Submitted,Prof. Michael Brown,CS150,Algorithms,Medium
+S032,Gregory Wells,gregory.wells@uni.edu,Computer Science,2023-12-05,3.6,A012,Machine Learning Basics,Computer Science,2024-03-05,2024-03-04,89,Submitted,Dr. Lisa Chen,CS400,Machine Learning,Hard
+S032,Gregory Wells,gregory.wells@uni.edu,Computer Science,2023-12-05,3.6,A003,Database Design,Computer Science,2024-01-10,2024-01-09,86,Submitted,Prof. Sarah Johnson,CS201,Database Systems,Hard
+S033,Hannah Cross,hannah.cross@uni.edu,Physics,2024-01-10,3.4,A014,Classical Mechanics Lab,Physics,2023-10-20,2023-10-20,82,Submitted,Prof. George Miller,PHYS101,Classical Mechanics,Medium
+S033,Hannah Cross,hannah.cross@uni.edu,Physics,2024-01-10,3.4,A018,Optics Experiments,Physics,2024-02-25,2024-02-25,84,Submitted,Prof. Patricia Kim,PHYS150,Optics,Medium
+S033,Hannah Cross,hannah.cross@uni.edu,Physics,2024-01-10,3.4,A013,Quantum Mechanics Problem Set,Physics,2024-01-05,2024-01-06,83,Late,Prof. James Clark,PHYS200,Quantum Mechanics,Hard
+S034,Isaac Cooper,isaac.cooper@uni.edu,Information Technology,2024-02-01,3.8,A007,Cybersecurity Report,Information Technology,2024-01-15,2024-01-14,94,Submitted,Prof. Lisa Anderson,IT200,Cybersecurity Fundamentals,Hard
+S034,Isaac Cooper,isaac.cooper@uni.edu,Information Technology,2024-02-01,3.8,A019,Database Administration,Information Technology,2024-03-15,2024-03-14,95,Submitted,Prof. Daniel Martinez,IT300,Advanced Database,Hard
+S034,Isaac Cooper,isaac.cooper@uni.edu,Information Technology,2024-02-01,3.8,A017,Cloud Infrastructure Setup,Information Technology,2024-02-20,2024-02-19,92,Submitted,Prof. Michael Johnson,IT250,Cloud Computing,Hard
+S035,Julia Morgan,julia.morgan@uni.edu,Computer Science,2022-09-01,3.3,A005,Web Development Project,Computer Science,2024-02-28,2024-03-01,77,Late,Dr. Emma Wilson,CS250,Web Development,Hard
+S035,Julia Morgan,julia.morgan@uni.edu,Computer Science,2022-09-01,3.3,A008,Mobile App Development,Computer Science,2024-02-10,2024-02-11,78,Late,Prof. Emma Davis,CS300,Mobile Development,Hard
+S035,Julia Morgan,julia.morgan@uni.edu,Computer Science,2022-09-01,3.3,A002,OOP Principles,Computer Science,2023-11-20,2023-11-24,74,Late,Dr. Robert Smith,CS102,Object-Oriented Programming,Medium
+S036,Kevin Murphy,kevin.murphy@uni.edu,Mathematics,2023-03-15,3.7,A010,Linear Algebra Proofs,Mathematics,2023-11-25,2023-11-24,93,Submitted,Prof. Angela White,MATH200,Linear Algebra,Hard
+S036,Kevin Murphy,kevin.murphy@uni.edu,Mathematics,2023-03-15,3.7,A020,Discrete Mathematics,Mathematics,2024-02-10,2024-02-09,95,Submitted,Prof. Steven Moore,MATH250,Discrete Math,Hard
+S036,Kevin Murphy,kevin.murphy@uni.edu,Mathematics,2023-03-15,3.7,A011,Statistics Analysis,Mathematics,2024-01-20,2024-01-19,90,Submitted,Prof. Richard Harris,MATH150,Statistics,Medium
+S037,Laura Evans,laura.evans@uni.edu,Information Technology,2023-04-20,3.5,A006,Network Configuration,Information Technology,2023-11-10,2023-11-09,85,Submitted,Prof. David Lee,IT101,Networking Basics,Medium
+S037,Laura Evans,laura.evans@uni.edu,Information Technology,2023-04-20,3.5,A016,Linux Administration,Information Technology,2024-03-10,2024-03-09,83,Submitted,Prof. David Lee,IT300,System Administration,Hard
